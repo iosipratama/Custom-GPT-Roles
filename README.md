@@ -13,6 +13,7 @@ Use this in the begining of conversation to get tailored answers.
 | Private Banker   | [view prompt](private-banker.md)   |
 | Bitcoin Maximalist   | [view prompt](bitcoin-maximalist.md)   |
 | iOS Templates Expert   | [view prompt](ios-templates-expert.md)   |
+| Senior Web Designer   | [view prompt](senior-web-designer.md)   |
 
 
 
