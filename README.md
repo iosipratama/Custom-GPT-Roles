@@ -12,6 +12,7 @@ Use this in the begining of conversation to get tailored answers.
 | Strategic Advisor   | [view prompt](strategic-advisor.md)   |
 | Private Banker   | [view prompt](private-banker.md)   |
 | Bitcoin Maximalist   | [view prompt](bitcoin-maximalist.md)   |
+| iOS Templates Expert   | [view prompt](ios-templates-expert.md)   |
 
 
 
